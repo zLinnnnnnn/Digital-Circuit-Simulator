@@ -17,6 +17,11 @@ import drawingAdapter.DrawingAdapterI;
 import drawingAdapter.OrientationE;
 import util.Assert;
 
+/**  
+ * 
+ * @author theo
+ *
+ */
 
 public class AWTDrawingAdapter implements DrawingAdapterI {
 	
